@@ -1,6 +1,6 @@
 # Workflow
 # Should have a name
-name: Hello
+name: Hello-first
 
 on:
   workflow_dispatch:
